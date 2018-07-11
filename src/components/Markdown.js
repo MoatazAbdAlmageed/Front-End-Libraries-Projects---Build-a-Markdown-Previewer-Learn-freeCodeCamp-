@@ -87,9 +87,8 @@ And here. | Okay. | I think we get it.
         const spinner = <div className="spinner"></div>;
 
         return (
-            <div className="Youtube">
+            <div className="Main">
 
-                <div className="container">
                     <div className="row">
                         <div className="col-md-6">
                             <div className="form-group">
@@ -105,7 +104,6 @@ And here. | Okay. | I think we get it.
                             </div>
                         </div>
                     </div>
-                </div>
             </div>
         );
     }
